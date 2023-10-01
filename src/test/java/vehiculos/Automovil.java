@@ -25,3 +25,4 @@ public void setPuestos(int puestos) {
 }
 
 }
+
