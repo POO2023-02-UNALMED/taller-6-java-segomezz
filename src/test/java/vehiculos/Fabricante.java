@@ -13,8 +13,13 @@ public class Fabricante {
 	public void setNombre(String nombre) {
 		this.nombre=nombre;
 	}
-	
-		
+	public Pais getPais() {
+		return pais;
+	}
+	public void setPais(Pais pais) {
+	this.pais=pais;
+}
+
 	}
 
 
