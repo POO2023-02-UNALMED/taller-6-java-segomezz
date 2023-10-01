@@ -23,6 +23,5 @@ public int getPuestos() {
 public void setPuestos(int puestos) {
 	this.puestos=puestos;
 }
-
 }
 
